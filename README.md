@@ -10,4 +10,4 @@ You can apply it
 
 3. Wireframe :
 
-![avatar](https://github.com/raertsai/the_last_project/blob/master/wireframe.png)
+![avatar]
